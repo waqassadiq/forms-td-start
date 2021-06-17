@@ -42,3 +42,10 @@ https://angular.io/guide/security
 ## ngNativeValidate
 You can do so by adding the ngNativeValidate  to a control in your template to use html5 validation
 https://stackoverflow.com/a/43189874
+
+## form.setValue
+to set the whole form values
+
+## form.patchValue
+to set the particular input value in form
+
